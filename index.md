@@ -27,3 +27,6 @@
 ``` javascript
 var myCar = "Hello  BMW!";
 ```
+- [X] do you like BMW
+- [X] Outline BMW
+- [ ] Introduce BMW
