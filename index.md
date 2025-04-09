@@ -1,5 +1,5 @@
-# my first portfolio
-## bmw
+# BMW
+## Bayerische Motoren Werke 
 ### The BMW M5's gearbox is an 8-speed M Steptronic sport transmission with Drivelogic, allowing for both automatic and manual shifting via paddles or the gearshift lever, and features a Drivelogic system for different driving modes. 
 #### Gear Ratios (example):
 #### 1st Gear: 5.000
@@ -24,6 +24,6 @@
 ###### interested in driving 
 ![image if bmw](https://img.autocarindia.com/ExtraImages/20240425024456_BMW_i5_M60_xDrive_launched_rear.jpg?w=700&c=1)
 
-`` javascript
+``` javascript
 var myCar = "Hello  BMW!";
 ```
