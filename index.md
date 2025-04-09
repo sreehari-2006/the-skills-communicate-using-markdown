@@ -25,5 +25,5 @@
 ![image if bmw](https://img.autocarindia.com/ExtraImages/20240425024456_BMW_i5_M60_xDrive_launched_rear.jpg?w=700&c=1)
 
 `` javascript
-var myVar = "Hello  bmw!";
+var myCar = "Hello  BMW!";
 ```
